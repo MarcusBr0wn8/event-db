@@ -14,7 +14,7 @@
   "events": [
     {
       "createdBy": 1,
-      "title": "SQUIT GAME 456 NFT EVENT",
+      "title": "Squit Game 456 NFT-event",
       "description": "Squit game t-shirt 456",
       "image": "https://i.seadn.io/gae/LXjNaeWk4B1xgJaw5L71W2Y_OQhKWzuzQ46pYKvguFa7lLgbyWt9RDsOuAX8iSwJ6XH3MJ06CRHx43FXvCpTJgASXWpAsOj_RKby8g",
       "categoryIds": [2],
@@ -27,7 +27,7 @@
     {
       "id": 2,
       "createdBy": 1,
-      "title": "EGOD NFT EVENT",
+      "title": "EGOD NFT-event",
       "description": "DOGE = EGOD!",
       "image": "https://i.seadn.io/gae/xji2Ou5Me3RWz5HaBvoYcSk52wjx7FXSkHXi6kCO_LccVwMXGhYI2SggnV9wvaHNumqy-1dHi_He66zIEr2V16fX1eOT5I5P-_-EBQ",
       "categoryIds": [2],
@@ -39,7 +39,7 @@
     {
       "id": 3,
       "createdBy": 2,
-      "title": "MOVIE NFT EVENT",
+      "title": "Movie NFT-event",
       "description": "KILL BILL = LLIK BILL",
       "image": "https://i.seadn.io/gae/gs0KJKVB4E5qGlqoJAIdI-kr1b_-FkZDS02SqbH6reEkf8GyN1PT5Apkf-DrWZASSch3KVb8uTdLzqvRLgfilAYu13I3DZQBmEvv",
       "categoryIds": [1, 2],
@@ -51,8 +51,8 @@
     {
       "id": 4,
       "createdBy": 2,
-      "title": "NFT event",
-      "description": "It's a bit of a stretch.",
+      "title": "NFT-event",
+      "description": "BORG = GROB",
       "image": "https://i.seadn.io/gae/OLT4BzOKKCnlmEEBVD8uDuII5xPentpyAgyL6w9EYYHksLALvp3uIz79l3p_VPAhEFBDl4MZRMIbFP-WnwkOKz_1oL74wsdGEbBC",
       "categoryIds": [1],
       "attendedBy": [],
