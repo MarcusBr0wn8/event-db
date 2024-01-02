@@ -20,8 +20,8 @@
       "categoryIds": [2],
       "attendedBy": [1],
       "location": "My back yard",
-      "startTime": "T15:0005-02-2024",
-      "endTime": "2023-03-10T17:00",
+      "startTime": "05-02-2024T12:00",
+      "endTime": "05-02-2024T18:00",
       "id": 1
     },
     {
