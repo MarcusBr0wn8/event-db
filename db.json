@@ -61,7 +61,6 @@
       "endTime": "2024-05-09T07:00"
     },
     {
-      "id": 5,
       "createdBy": 2,
       "title": "ALSET NFT Event",
       "description": "TESLA = ALSET",
@@ -70,7 +69,8 @@
       "attendedBy": [2],
       "location": "Rotterdam, The Netherlands",
       "startTime": "2024-06-12T20:00",
-      "endTime": "2024-06-12T21:00" 
+      "endTime": "2024-06-12T21:00",
+      "id": 6
     }
   ],
   "categories": [
