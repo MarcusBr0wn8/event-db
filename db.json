@@ -14,8 +14,8 @@
   "events": [
     {
       "createdBy": 1,
-      "title": "Squit Game 456 NFT-event",
-      "description": "Squit game t-shirt 456",
+      "title": "Squit Game NFT-event",
+      "description": "The best Netflix serie!",
       "image": "https://i.seadn.io/gae/LXjNaeWk4B1xgJaw5L71W2Y_OQhKWzuzQ46pYKvguFa7lLgbyWt9RDsOuAX8iSwJ6XH3MJ06CRHx43FXvCpTJgASXWpAsOj_RKby8g",
       "categoryIds": [2],
       "attendedBy": [1],
@@ -30,7 +30,7 @@
       "title": "EGOD NFT-event",
       "description": "DOGE = EGOD!",
       "image": "https://i.seadn.io/gae/xji2Ou5Me3RWz5HaBvoYcSk52wjx7FXSkHXi6kCO_LccVwMXGhYI2SggnV9wvaHNumqy-1dHi_He66zIEr2V16fX1eOT5I5P-_-EBQ",
-      "categoryIds": [1, 2],
+      "categoryIds": [1],
       "attendedBy": [2],
       "location": "Eindhoven, The Netherlands",
       "startTime": "2024-03-12T18:00",
