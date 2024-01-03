@@ -50,7 +50,7 @@
     },
     {
       "id": 4,
-      "createdBy": 2,
+      "createdBy": 1,
       "title": "NFT-event",
       "description": "BORG = GROB",
       "image": "https://i.seadn.io/gae/OLT4BzOKKCnlmEEBVD8uDuII5xPentpyAgyL6w9EYYHksLALvp3uIz79l3p_VPAhEFBDl4MZRMIbFP-WnwkOKz_1oL74wsdGEbBC",
@@ -70,7 +70,7 @@
       "location": "Rotterdam, The Netherlands",
       "startTime": "2024-06-12T20:00",
       "endTime": "2024-06-12T21:00",
-      "id": 6
+      "id": 5
     }
   ],
   "categories": [
