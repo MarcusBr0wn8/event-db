@@ -13,6 +13,7 @@
   ],
   "events": [
     {
+      "id": 1,
       "createdBy": 1,
       "title": "Squit Game NFT-event",
       "description": "The best Netflix serie!",
@@ -21,8 +22,7 @@
       "attendedBy": [1],
       "location": "Limburg, The Netherlands",
       "startTime": "05-02-2024T12:00",
-      "endTime": "05-02-2024T18:00",
-      "id": 1
+      "endTime": "05-02-2024T18:00"
     },
     {
       "id": 2,
@@ -71,6 +71,18 @@
       "location": "Rotterdam, The Netherlands",
       "startTime": "2024-06-12T20:00",
       "endTime": "2024-06-12T21:00"
+    },
+    {
+      "id": 6,
+      "createdBy": 1,
+      "title": "Squit Game NFT-event",
+      "description": "The best Netflix serie!",
+      "image": "https://i.seadn.io/gae/LXjNaeWk4B1xgJaw5L71W2Y_OQhKWzuzQ46pYKvguFa7lLgbyWt9RDsOuAX8iSwJ6XH3MJ06CRHx43FXvCpTJgASXWpAsOj_RKby8g",
+      "categoryIds": [2],
+      "attendedBy": [1],
+      "location": "Limburg, The Netherlands",
+      "startTime": "05-02-2024T12:00",
+      "endTime": "05-02-2024T18:00"
     }
   ],
   "categories": [
