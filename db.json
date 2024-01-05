@@ -84,7 +84,7 @@
       "startTime": "05-03-2024T12:00",
       "endTime": "05-03-2024T18:00"
     },
-
+    {
      "id": 7,
       "createdBy": 2,
       "title": "Squit Game 001 NFT-event",
@@ -95,7 +95,7 @@
       "location": "Groningen, The Netherlands",
       "startTime": "05-03-2024T12:00",
       "endTime": "05-03-2024T18:00"
-    },
+    }
   ],
   "categories": [
     {
