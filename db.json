@@ -45,8 +45,8 @@
       "categoryIds": [2],
       "attendedBy": [1, 2],
       "location": "Chania, Crete-Greece",
-      "startTime": "2024-03-15T12:00",
-      "endTime": "2024-03-15T13:30"
+      "startTime": "15-03-2024T12:00",
+      "endTime": "16-03-2024T13:30"
     },
     {
       "id": 4,
@@ -57,8 +57,8 @@
       "categoryIds": [3],
       "attendedBy": [1],
       "location": "Amsterdam, The Netherlands",
-      "startTime": "2024-05-09T06:00",
-      "endTime": "2024-05-09T07:00"
+      "startTime": "09-05-2024T06:00",
+      "endTime": "09-05-2024T07:00"
     },
     {
       "id": 5,
@@ -69,8 +69,8 @@
       "categoryIds": [1, 3],
       "attendedBy": [2],
       "location": "New York, United States",
-      "startTime": "2024-06-12T20:00",
-      "endTime": "2024-06-12T21:00"
+      "startTime": "12-06-2024T20:00",
+      "endTime": "12-06-2024T21:00"
     },
     {
       "id": 6,
