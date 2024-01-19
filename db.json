@@ -11,7 +11,7 @@
       "image": "https://images.unsplash.com/profile-1540824861286-a20aac3b04ea"
     }
   ],
-  "events": []
+  "events": [
     {
       "id": 1,
       "createdBy": 1,
@@ -96,6 +96,7 @@
       "startTime": "05-03-2024T12:00",
       "endTime": "05-03-2024T18:00"
     }
+  ],
   
   "categories": [
     {
